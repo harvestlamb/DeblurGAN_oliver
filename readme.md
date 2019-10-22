@@ -10,7 +10,5 @@ DeblurGAN测试代码请见下（已经修改原始有些代码，可以直接�
 
 相关测试结果如下，后续会更新传统算法的Matlab代码。
 
-![avatar](raw.githubusercontent.com/harvestlamb/DeblurGAN_oliver/master/image/2019-10-21%2015-45-31%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
-
-
+![ Aaron Swartz ](image/01.png)
 
