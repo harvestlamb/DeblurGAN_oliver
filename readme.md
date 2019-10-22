@@ -20,3 +20,7 @@ DeblurGAN测试代码请见下（已经修改原始有些代码，可以直接�
 
 ![avatar](image/03.png)
 
+
+
+Thanks for this investigation： https://github.com/KupynOrest/DeblurGAN 
+
