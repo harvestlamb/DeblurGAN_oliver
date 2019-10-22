@@ -10,12 +10,7 @@ DeblurGAN测试代码请见下（已经修改原始有些代码，可以直接�
 
 相关测试结果如下，后续会更新传统算法的Matlab代码。
 
-![2019-10-21 15-51-54 的屏幕截图](D:\Github\DeblurGAN_oliver\image\2019-10-21 15-51-54 的屏幕截图.png)
+![001]( [https://raw.githubusercontent.com/harvestlamb/DeblurGAN_oliver/master/image/2019-10-21%2015-45-31%20%E7%9A%84%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png](https://raw.githubusercontent.com/harvestlamb/DeblurGAN_oliver/master/image/2019-10-21 15-45-31 的屏幕截图.png)
 
-![2019-10-21 15-45-31 的屏幕截图](D:\Github\DeblurGAN_oliver\image\2019-10-21 15-45-31 的屏幕截图.png)
 
-![2019-10-21 15-48-19 的屏幕截图](D:\Github\DeblurGAN_oliver\image\2019-10-21 15-48-19 的屏幕截图.png)
 
-![2019-10-21 15-48-43 的屏幕截图](D:\Github\DeblurGAN_oliver\image\2019-10-21 15-48-43 的屏幕截图.png)
-
-![2019-10-21 15-50-22 的屏幕截图](D:\Github\DeblurGAN_oliver\image\2019-10-21 15-50-22 的屏幕截图.png)
